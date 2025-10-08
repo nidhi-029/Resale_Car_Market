@@ -58,19 +58,4 @@ It helps *customers* and *dealerships* make better pricing decisions by analyzin
 - Identified *key factors* influencing resale value: mileage, fuel type, engine size, and ownership.  
 - Built an *interactive web app* for real-time predictions.  
 
----
 
-## 🚀 How to Run the Project  
-
-### 1. Clone the Repository  
-bash
-git clone https://github.com/harshithsai218/Car-Resale-Price-Predictor.git
-cd Car-Resale-Price-Predictor
-
-2. Install Dependencies
-bash
-pip install -r requirements.txt
-
-3. Run the Streamlit App
-bash
-python -m streamlit run app.py
